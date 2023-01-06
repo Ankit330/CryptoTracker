@@ -6,7 +6,23 @@ I'm excited to announce that I have just launched a new Crypto Tracker app! This
 
 # Screenshorts
 
-#![Screenshot 2023-01-06 223346](https://user-images.githubusercontent.com/84194609/211061230-90e388f1-8fe3-4f17-86a4-5d86599c1ca4.png)
+![1](https://user-images.githubusercontent.com/84194609/211063894-f80eb9af-f391-4037-acb4-f339902f7690.png)
+
+![![2](https://user-images.githubusercontent.com/84194609/211063672-7c99bc77-4424-4711-ba15-bc9dd63776f0.png)
+
+![3](https://user-images.githubusercontent.com/84194609/211063687-d1bc669e-da33-4bea-9308-89ef926ffa97.png)
+
+![4](https://user-images.githubusercontent.com/84194609/211063694-de85d27d-0afe-44a7-9415-16fb63130891.png)
+
+![5](https://user-images.githubusercontent.com/84194609/211063706-3071cd6d-7faa-402b-80ae-8b38cbecdddc.png)
+
+![6](https://user-images.githubusercontent.com/84194609/211063709-122a65cc-7940-42d0-a960-cbec98452311.png)
+
+# Video
+
+https://user-images.githubusercontent.com/84194609/211063782-d501fd72-6d06-49b5-a584-4523c0865548.mp4
+
+
 
 # Getting Started
 
