@@ -8,7 +8,7 @@ I'm excited to announce that I have just launched a new Crypto Tracker app! This
 
 ![1](https://user-images.githubusercontent.com/84194609/211063894-f80eb9af-f391-4037-acb4-f339902f7690.png)
 
-![![2](https://user-images.githubusercontent.com/84194609/211063672-7c99bc77-4424-4711-ba15-bc9dd63776f0.png)
+![2](https://user-images.githubusercontent.com/84194609/211063672-7c99bc77-4424-4711-ba15-bc9dd63776f0.png)
 
 ![3](https://user-images.githubusercontent.com/84194609/211063687-d1bc669e-da33-4bea-9308-89ef926ffa97.png)
 
